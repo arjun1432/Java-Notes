@@ -1,0 +1,11 @@
+git --verion
+
+git config --global user.name "arjun1432"
+git config --global user.email "arun/dhirwan@gmail.com"
+git config --global --list 
+
+git status
+git init --> it will take u in master repositery sp please avoid to use it
+git init -b main
+
+git commit -m "write message here"
