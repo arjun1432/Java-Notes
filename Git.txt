@@ -11,4 +11,6 @@ git init -b main
 git commit -m "write message here"
 if u want again commit u have to first run git add on that file then again git commit
 git commit -a -m "write message here" //skipping staging
-ppp
+
+git diff
+git diff --staged after git add command and before commit
