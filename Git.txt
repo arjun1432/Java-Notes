@@ -14,3 +14,5 @@ git commit -a -m "write message here" //skipping staging
 
 git diff
 git diff --staged after git add command and before commit
+
+git rm --cached a.txt --> for removing files
