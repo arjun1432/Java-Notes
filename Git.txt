@@ -15,4 +15,17 @@ git commit -a -m "write message here" //skipping staging
 git diff
 git diff --staged after git add command and before commit
 
-git rm --cached a.txt --> for removing files
+git rm --cached a.txt --> for removing 
+
+git branch -M main
+
+ssh-keygen -o 
+cd  --> ls -a --> cd .ssh --> cat id_ed25519.pub --> this is the key copy it and create new key
+
+git remote add origin git@github.com:arjun1432/Java-Notes.git
+
+git pull origin main
+git add .
+git commit -m "Message"
+git push -u origin main --force
+
